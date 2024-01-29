@@ -1,4 +1,4 @@
-public class lesson4 {
+public class lesson5 {
     public static void main(String[] args) {
         int x = 5;
         int y = 7;
